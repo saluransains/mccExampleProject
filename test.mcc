@@ -1,0 +1,5 @@
+str t11 
+nr t11
+print t11
+if str, lol = loli
+

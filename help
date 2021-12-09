@@ -1,0 +1,3 @@
+print 'MyNotepad Console Code (mcc) version 2021.9'
+print 'Type .\mcc example (for example code)'
+print 'Or just open the example code manually. The example code is in examples folder'

@@ -1,0 +1,3 @@
+print 'example code'
+run examples\example1.txt
+run examples\example1mcc.mcc
