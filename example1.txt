@@ -1,0 +1,8 @@
+
+//This is comment(This one didn't do anythings)
+
+title Example 1
+//this will change the title
+
+print 'Hello world'
+//print Hello worlds Code
